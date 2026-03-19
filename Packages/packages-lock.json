@@ -1,16 +1,5 @@
 {
   "dependencies": {
-    "com.hackerzhuli.code": {
-      "version": "https://github.com/hackerzhuli/com.hackerzhuli.code.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.test-framework": "1.4.6",
-        "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.nuget.mono-cecil": "1.11.4"
-      },
-      "hash": "52e753f70b324a21e665da5a73f3fa4b58d0a819"
-    },
     "com.unity.ai.navigation": {
       "version": "2.0.11",
       "depth": 0,
@@ -100,14 +89,7 @@
     },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.6",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.2",
-      "depth": 1,
+      "depth": 3,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
