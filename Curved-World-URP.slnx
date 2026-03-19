@@ -4,5 +4,4 @@
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="AmazingAssets.CurvedWorld.Editor.Universal.ShaderGUI.csproj" />
   <Project Path="AmazingAssets.CurvedWorld.csproj" />
-  <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
